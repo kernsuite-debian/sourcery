@@ -1,0 +1,14 @@
+Source: sourcery
+Section: python
+Priority: extra
+Maintainer: Gijs Molenaar <gijs@pythonic.nl>
+Build-Depends: debhelper (>= 8.0.0), python-all
+Standards-Version: 3.9.2
+Homepage: https://github.com/radio-astro/sourcery
+X-Python-Version: 2.7
+
+Package: python-sourcery
+Architecture: any
+Depends: ${python:Depends}, ${misc:Depends}, lofar, python-tigger,
+ python-numpy, python-scipy, python-astlib
+Description: Tools for creating high fidelity source catalogues from radio interferometric datasets

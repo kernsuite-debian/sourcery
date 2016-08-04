@@ -1,0 +1,3 @@
+version=3
+opts=filenamemangle=s/.+\/v?(\d\S*)\.tar\.gz/sourcery-$1\.tar\.gz/ \
+  https://github.com/radio-astro/sourcery/tags .*/?(\d\S*)\.tar\.gz
