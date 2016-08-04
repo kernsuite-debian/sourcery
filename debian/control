@@ -2,7 +2,7 @@ Source: sourcery
 Section: python
 Priority: extra
 Maintainer: Gijs Molenaar <gijs@pythonic.nl>
-Build-Depends: debhelper (>= 8.0.0), python-all
+Build-Depends: debhelper (>= 8.0.0), python-all, python-setuptools
 Standards-Version: 3.9.2
 Homepage: https://github.com/radio-astro/sourcery
 X-Python-Version: 2.7

@@ -1,3 +1,9 @@
+sourcery (1.2.6-1kern1) xenial; urgency=medium
+
+  * adding missing setuptools dependency
+
+ -- Gijs Molenaar (launchpad ppa build key) <gijs@pythonic.nl>  Thu, 04 Aug 2016 11:03:03 +0200
+
 sourcery (1.2.6-1) xenial; urgency=medium
 
   * first release
