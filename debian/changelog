@@ -1,3 +1,9 @@
+sourcery (1.2.6-1kern2) xenial; urgency=medium
+
+  * update signature
+
+ -- KERN packaging <packaging@kernsuite.info>  Tue, 07 Nov 2017 17:23:01 +0200
+
 sourcery (1.2.6-1kern1) xenial; urgency=medium
 
   * adding missing setuptools dependency
