@@ -1,3 +1,11 @@
+sourcery (1.2.6-1kern4) bionic; urgency=medium
+
+  [ Gijs Molenaar ]
+  * ignore deb build files
+  * fix dependency
+
+ -- KERN packaging <packaging@kernsuite.info>  Wed, 29 Aug 2018 01:34:15 +0200
+
 sourcery (1.2.6-1kern3) bionic; urgency=medium
 
   * New upstream release for bionic
