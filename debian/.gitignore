@@ -1,0 +1,7 @@
+.debhelper/
+files
+python-sourcery.debhelper.log
+python-sourcery.postinst.debhelper
+python-sourcery.prerm.debhelper
+python-sourcery.substvars
+python-sourcery/
