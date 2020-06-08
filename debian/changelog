@@ -1,3 +1,10 @@
+sourcery (1.2.7-1kern1) bionic; urgency=medium
+
+  [ Athanaseus Javas Ramaila]
+  * New upstream release 1.2.7
+
+ -- KERN packaging <packaging@kernsuite.info>  Mon, 08 Jun 2020 11:16:33 +0200
+
 sourcery (1.2.6-1kern4) bionic; urgency=medium
 
   [ Gijs Molenaar ]
